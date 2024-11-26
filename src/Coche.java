@@ -33,4 +33,7 @@ public class Coche {
                 ", anio=" + anio +
                 '}';
     }
+    public void encender() {
+        System.out.println("El coche está encendido.");
+    }
 }
